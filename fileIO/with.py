@@ -1,3 +1,17 @@
+'''
+
+Reference Source: https://realpython.com/python-with-statement/
+
+
+'''
+
+
+
+
+
+
+
+
 import pathlib
 import logging
 import os
